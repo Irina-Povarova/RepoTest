@@ -1,0 +1,7 @@
+Sample of CRUD test:
+1.	Create
+2.	FindById
+3.	Update
+4.	FindByName
+5.	Delete
+6.	FindAll
