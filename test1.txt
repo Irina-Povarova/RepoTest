@@ -5,3 +5,4 @@ Sample of CRUD test:
 4.	FindByName
 5.	Delete
 6.	FindAll
+This is used in API testing
